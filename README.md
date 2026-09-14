@@ -360,4 +360,3 @@ Built with precision for **Smart India Hackathon 2026** by team **Anvesha**.
 
 - **License**: [MIT License](LICENSE)
 - **Problem Statement**: SIH26106 — *AI-Powered Email Threat Detection and Forensic Intelligence*
-- **Primary Repository**: [https://github.com/Rishabhbansal005/Anvesha](https://github.com/Rishabhbansal005/Anvesha)
